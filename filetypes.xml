@@ -4,7 +4,7 @@
       <mapping ext="g4" type="PLAIN_TEXT" />
       <mapping ext="expr" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="g4" type="ANTLR v4 grammar file" />
+      <removed_mapping ext="g4" approved="true" type="ANTLR v4 grammar file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
